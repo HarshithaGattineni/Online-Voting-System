@@ -122,7 +122,7 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions or feedback, feel free to reach out:
 
-- **Email**: harshitha.gattineni@example.com
-- **LinkedIn**: [Harshitha Gattineni](https://www.linkedin.com/in/harshitha-gattineni)
-- **GitHub**: [GitHub Profile](https://github.com/your-username)
+- **Email**: harshitha.gattineni@gmail.com
+- **LinkedIn**: [Harshitha Gattineni](https://www.linkedin.com/in/harshitha-gattineni-0478a11a5/)
+- **GitHub**: [GitHub Profile](https://github.com/HarshithaGattineni)
 
